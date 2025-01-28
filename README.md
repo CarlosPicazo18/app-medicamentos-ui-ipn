@@ -33,7 +33,7 @@ El objetivo es proporcionar una experiencia **intuitiva y accesible** para que l
 ## 📄 Descargar el Diseño en PDF
 Puedes visualizar el diseño completo de la aplicación en el siguiente enlace:
 
-📥 [Descargar Diseño UX/UI - Gestor de Medicamentos](https://github.com/CarlosPicazo18/app-medicamentos-ui/raw/main/gestor-medicamentos-ui.pdf)
+📥 [Descargar Diseño UX/UI - Gestor de Medicamentos](https://github.com/CarlosPicazo18/app-medicamentos-ui-ipn/blob/main/app-medicamento-ui.pdf)
 
 
 ---
